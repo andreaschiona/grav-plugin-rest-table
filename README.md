@@ -2,7 +2,7 @@
 
 **This README.md file should be modified to describe the features, installation, configuration, and general usage of this plugin.**
 
-The **Rest Table** Plugin is for [Grav CMS](http://github.com/getgrav/grav). A dynamic table populates from a REST servicd output
+The **Rest Table** Plugin is for [Grav CMS](http://github.com/getgrav/grav). A dynamic table populates from a REST service output
 
 ## Installation
 
@@ -89,6 +89,4 @@ you just insert the following line
 
 
 ## To Do
-
-- [ ] Future plans, if any
 
