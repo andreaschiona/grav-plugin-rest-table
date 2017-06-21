@@ -12,6 +12,9 @@ bugs: https://github.com/andreaschiona/grav-plugin-rest-table/issues
 docs: https://github.com/andreaschiona/grav-plugin-rest-table/blob/develop/README.md
 license: MIT
 
+dependencies:
+  - shortcode-core
+
 form:
   validation: strict
   fields:
