@@ -6,7 +6,7 @@ author:
   name: Andrea Schiona
   email: andrea.schiona@gmail.com
 homepage: https://github.com/andreaschiona/grav-plugin-rest-table
-#demo: http://demo.yoursite.com
+demo: http://gravtest.hostfree.pw/test
 keywords: grav, plugin, table, rest
 bugs: https://github.com/andreaschiona/grav-plugin-rest-table/issues
 docs: https://github.com/andreaschiona/grav-plugin-rest-table/blob/develop/README.md
