@@ -4,7 +4,7 @@
 
 The **Rest Table** Plugin is for [Grav CMS](http://github.com/getgrav/grav). A dynamic table populates from a REST service output
 
-You can found a live demo here: (http://gravtest.hostfree.pw/test)[http://gravtest.hostfree.pw/test]
+You can found a live demo here: [http://gravtest.hostfree.pw/test](http://gravtest.hostfree.pw/test)
 
 ## Installation
 
