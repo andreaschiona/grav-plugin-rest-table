@@ -4,6 +4,8 @@
 
 The **Rest Table** Plugin is for [Grav CMS](http://github.com/getgrav/grav). A dynamic table populates from a REST service output
 
+You can found a live demo here: (http://gravtest.hostfree.pw/test)[http://gravtest.hostfree.pw/test]
+
 ## Installation
 
 Installing the Rest Table plugin can be done in one of two ways. The GPM (Grav Package Manager) installation method enables you to quickly and easily install the plugin with a simple terminal command, while the manual method enables you to do so via a zip file.
